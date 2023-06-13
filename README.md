@@ -10,9 +10,9 @@ the student for better and comfortable version of reading and writting</li>
 <hr>
 
 # This is how It Looks
-![Screenshot_1](https://github.com/ss9324558/TextEditor/assets/115810209/f883f5ff-617d-4f8c-953e-2735c0f58e1d)
+![Screenshot_1]([https://github.com/ss9324558/TextEditor/assets/115810209/f883f5ff-617d-4f8c-953e-2735c0f58e1d](https://raw.githubusercontent.com/Zethe371/TextEdior/main/t2.png))
 
-![Screenshot_2](https://github.com/ss9324558/TextEditor/assets/115810209/def70b64-3e92-4ae1-a175-751aac2dd8af)
+![Screenshot_2]([https://github.com/ss9324558/TextEditor/assets/115810209/def70b64-3e92-4ae1-a175-751aac2dd8af](https://raw.githubusercontent.com/Zethe371/TextEdior/main/t1.png))
 
 It Currenlty have only 3 Colour available
 <ul>
