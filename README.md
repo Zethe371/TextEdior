@@ -1,5 +1,5 @@
 # TextEditor
-This is the simple text editor.<br>
+Hey , I have made this simple text editor using JAVA .<br>
 <ol>
   <li> Which have some of the basic feature which are required</li>
   <li> It has One cool Feature of changing background colour which helps<br> 
